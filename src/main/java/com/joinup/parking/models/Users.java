@@ -12,6 +12,9 @@ private String lastname;
 private int number;
 private String mail;
 
+public Users() {
+
+}
 public Users(int id, String name, String lastname, int number, String mail) {
 	super();
 	this.id = id;

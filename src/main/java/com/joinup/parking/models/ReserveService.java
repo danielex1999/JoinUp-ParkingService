@@ -21,6 +21,10 @@ public class ReserveService {
 	private String placa;
 	private int numvolt;
 	private double money;
+	
+	public ReserveService() {
+	
+	}
 	public ReserveService(int reserva_id, CatalogService service_id, Date start_day, Date final_day, String brand,
 			Users user_id, String model, String placa, int numvolt, double money) {
 		super();
