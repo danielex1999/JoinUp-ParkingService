@@ -1,4 +1,4 @@
-# Parking - Service <img src="https://pivotal.gallerycdn.vsassets.io/extensions/pivotal/vscode-boot-dev-pack/0.1.0/1629148309593/Microsoft.VisualStudio.Services.Icons.Default" width="40px" alt="java" align="right"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="65px" alt="java" align="right"><img src="https://joinup.es/wp-content/themes/newjoinup/assets/images/logo.svg" width="75px" alt="java" align="right">
+# Parking - Service<img src="https://joinup.es/wp-content/themes/newjoinup/assets/images/logo.svg" width="75px" alt="java" align="right">
 
 Joinup es la compañía de referencia en la gestión MaaS para el mercado corporativo
 
